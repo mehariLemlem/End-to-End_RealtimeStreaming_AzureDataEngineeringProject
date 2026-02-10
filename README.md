@@ -7,4 +7,4 @@ The streaming data is processed and stored in an **Eventhouse (Kusto database)**
 The solution follows cloud best practices with secure secret management using **Azure Key Vault** and optimized resource usage through **Azure Cost Management**, delivering a scalable, secure, and cost-efficient real-time analytics platform.
 
 ## **Pipeline Architecture** ##
-![alt text](ProjectArchitecture.jpg)
+![Arcutecture](docs/ProjectArchitecture.jpg)
