@@ -1,0 +1,55 @@
+Weather Data: {
+   "name": "Chennai",
+   "region": "Tamil Nadu",
+   "country": "India",
+   "lat": 13.0833,
+   "lon": 80.2833,
+   "localtime": "2026-02-20 00:33",
+   "temp_c": 26.1,
+   "is_day": 0,
+   "condition_text": "Mist",
+   "condition_icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+   "wind_kph": 10.4,
+   "wind_degree": 59,
+   "wind_dir": "ENE",
+   "pressure_in": 29.91,
+   "precip_in": 0.0,
+   "humidity": 84,
+   "cloud": 50,
+   "feelslike_c": 28.4,
+   "uv": 0.0,
+   "air_quality": {
+      "co": 265.85,
+      "no2": 8.35,
+      "o3": 105.0,
+      "so2": 3.25,
+      "pm2_5": 22.55,
+      "pm10": 28.15,
+      "us-epa-index": 2,
+      "gb-defra-index": 2
+   },
+   "alerts": [],
+   "forecast": [
+      {
+         "date": "2026-02-20",
+         "maxtemp_c": 27.9,
+         "mintemp_c": 24.2,
+         "condition": "Partly Cloudy ",
+         "condition_icon": "Partly Cloudy "
+      },
+      {
+         "date": "2026-02-21",
+         "maxtemp_c": 28.6,
+         "mintemp_c": 24.7,
+         "condition": "Patchy rain nearby",
+         "condition_icon": "Patchy rain nearby"
+      },
+      {
+         "date": "2026-02-22",
+         "maxtemp_c": 29.2,
+         "mintemp_c": 25.1,
+         "condition": "Patchy rain nearby",
+         "condition_icon": "Patchy rain nearby"
+      }
+   ]
+}
